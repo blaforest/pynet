@@ -2,7 +2,6 @@ import yaml
 import json
 
 from pprint import pprint as pp
-
 #YAML
 with open("Lesson1Number6_create_first_yaml.yml") as f:
 	new_list_yaml = yaml.load(f)
@@ -23,4 +22,3 @@ print "\n\nThis is JSON\n"
 pp(new_list_json)
 
 print "\n\n"
-
