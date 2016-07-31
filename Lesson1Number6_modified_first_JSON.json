@@ -1,0 +1,9 @@
+[0, 1, 2, 3, 4, "Python Programming", "Is Fun", 
+{
+"HOSTNAME": "testbox", 
+"IP_ADDR": "10.10.10.239", 
+"DOMAIN_NAME": "someplace.net",
+"VENDOR": "juniper",
+"PLATFORM": "MX"
+}
+]
